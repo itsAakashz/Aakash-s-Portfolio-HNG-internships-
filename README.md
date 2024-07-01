@@ -4,7 +4,7 @@ Welcome to my introductory website repository! This project showcases my Slack u
 
 ## Demo
 
-**Link:** [Profile](#) _(Replace with your actual link)_
+**Link:** [Profile](https://breadcrumbsaakash-s-portfolio-hng.netlify.app/)
 
 ## Table of Contents
 
@@ -30,7 +30,7 @@ This website serves as a concise introduction to who I am. It displays my Slack 
 - **HTML5:** For the structure of the site.
 - **CSS3:** For styling and responsive design.
 - **JavaScript:** For dynamic content updates.
-- **Font Awesome:** Used for social media and contact icons.
+- **Icons8(https://icons8.com/icons):** Used for social media and contact icons.
 
 ## Usage
 
@@ -40,7 +40,7 @@ To view the website locally or on a server, simply open the `index.html` file in
 
 For any questions, suggestions, or feedback, feel free to reach out to me!
 
-- **Slack:** AJ1732
-- **Email:** [ejemeniboi@gmail.com](mailto:ejemeniboi@gmail.com)
+- **Slack:** Aakashuu
+- **Email:** [gzatrop@gmail.com](mailto:gzatrop@gmail.com)
 
 Thank you for visiting my introductory website repository!
