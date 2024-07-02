@@ -48,8 +48,8 @@ p {
   margin-bottom: 10px;
   border-radius: 30px;
 }
-.section a:hover{
-color:red;
+#res a:hover{
+color: red;
 }
 
 .section1 {
