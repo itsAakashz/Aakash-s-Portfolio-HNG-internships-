@@ -112,7 +112,14 @@ Well, I always try to be a good man every day who is more compassionate, helpful
     <script type="text/javascript">
         function updateTimeAndDay() {
             const date = new Date();
-            const currentUTCTime = date.getUTCHours().toString().padStart(2, '0') + ':' + date.getUTCMinutes().toString().padStart(2, '0')+" UTC";
+                 // Get current time components in UTC
+        const hours = date.getUTCHours().toString().padStart(2, '0');
+        const minutes = date.getUTCMinutes().toString().padStart(2, '0');
+        const seconds = date.getUTCSeconds().toString().padStart(2, '0');
+        const milliseconds = date.getUTCMilliseconds().toString().padStart(3, '0');
+
+        // Combine time components
+        const currentUTCTime = `${hours}:${minutes}:${seconds}.${milliseconds} UTC`;
 
             // Days of the week array
             const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
